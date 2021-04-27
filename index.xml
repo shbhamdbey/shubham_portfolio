@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shubham Dubey on Home</title>
+    <link>https://shbhamdbey.github.io/shubham_portfolio/</link>
+    <description>Recent content in Shubham Dubey on Home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 14 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://shbhamdbey.github.io/shubham_portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>- Experienced Data Analyst at NJIT</title>
+      <link>https://shbhamdbey.github.io/shubham_portfolio/post/chapter-6/</link>
+      <pubDate>Wed, 14 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://shbhamdbey.github.io/shubham_portfolio/post/chapter-6/</guid>
+      <description>Worked on extensive data validation using SQL and maintain back-end testing reports using Excel extract and increasing data quality assurance via 12%, communicating results using HLOOKUP and PIVOT dashboards.
+  Optimized the already stored cursor and trigger to enhance the performance with the ERP banner data mapping and identifying potential area where exploratory data analysis can be used to increase efficiency using daily scrum
+  Performed data cleaning of source data stored in SQL server and maintaining deduplication chain cleanup for the data centered products which helped in handling critical business issues and increased efficiency by 20%</description>
+    </item>
+    
+    <item>
+      <title>- Experience with Pfizer </title>
+      <link>https://shbhamdbey.github.io/shubham_portfolio/post/chapter-5/</link>
+      <pubDate>Sat, 10 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://shbhamdbey.github.io/shubham_portfolio/post/chapter-5/</guid>
+      <description>Extracted and transformed geographical information and developed a Risk analysis model for prioritizing with response strategies to improve operational efficiency in logistics by 5%
+  Assisting with Python scripts and pipelines for spatial data analysis, providing optimal storage in MongoDB Clusters which helped in reducing waiting time for analysis of the reports by 20%
+  Communicated recommendations of Risk Data Model using Tableau reporting dashboards having interactive maps and charts to improve latency by 49% to 63%</description>
+    </item>
+    
+    <item>
+      <title>- Easy School Admit Predictions</title>
+      <link>https://shbhamdbey.github.io/shubham_portfolio/post/project-3/</link>
+      <pubDate>Mon, 11 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://shbhamdbey.github.io/shubham_portfolio/post/project-3/</guid>
+      <description>Simplified the Student Admission process, over 2 million college applications are filed, and each of them comes with a certain element of chance, there are various feature influence the admission factor. Identified key metrics which hold incredible importance to a student application although every school have different cutoff for every attribute. With the help of key factors such as SAT score, GPA, College Rank, I tried to analyze the trends and relationship and tried to predict the college acceptance rather than waiting for decision to roll out.</description>
+    </item>
+    
+    <item>
+      <title>- Wine Quality Prediction ML Model in Spark Over AWS</title>
+      <link>https://shbhamdbey.github.io/shubham_portfolio/post/project-1/</link>
+      <pubDate>Thu, 09 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://shbhamdbey.github.io/shubham_portfolio/post/project-1/</guid>
+      <description>Build a wine quality prediction ML model in Spark over AWS. The model is trained in parallel on multiple EC2 instances. Then, it is saved and then loaded the model in an application that will perform wine quality prediction; this application runs on one EC2 instance. The implementation is done in Python on Ubuntu Linux. The details of the assignment are presented below
+ The output of application is measured in the prediction performance, specifically the F1 score, which is available in MLlib.</description>
+    </item>
+    
+    <item>
+      <title>- Sales Prediction Using Marketing tools </title>
+      <link>https://shbhamdbey.github.io/shubham_portfolio/post/project-2/</link>
+      <pubDate>Wed, 10 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://shbhamdbey.github.io/shubham_portfolio/post/project-2/</guid>
+      <description>This project help company stakeholder with sales analysis report that shows the trends that occur in a company&amp;rsquo;s sales with different marketing means. In its most basic form, this analysis report shows whether sales are increasing or declining with various tool for marketing.
+This predictions can be used by sales managers to analyze the trends in the report to determine the best course of action and identify market opportunities and areas where they could Improve marketing Strategies.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://shbhamdbey.github.io/shubham_portfolio/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://shbhamdbey.github.io/shubham_portfolio/contact/</guid>
+      <description> Your Name Email Address An email address is required.  Message   </description>
+    </item>
+    
+    <item>
+      <title>Image Recognition Pipeline [College Parking System]</title>
+      <link>https://shbhamdbey.github.io/shubham_portfolio/post/project-4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://shbhamdbey.github.io/shubham_portfolio/post/project-4/</guid>
+      <description>Developed Image recognition pipeline with help of deep learning API “Image Rekognition”, parallelly running two EC2 instances for car identification and label text prediction on car.
+Provided Security, validating college parking system for efficient tracking of valid student cars. Accomplished accuracy of 83% in successful executing the project
+Got proficiency working with AWS environment working with S3 storage and EC2 instances connecting both EC2 instance With simple queue service to execute parallelly</description>
+    </item>
+    
+  </channel>
+</rss>
